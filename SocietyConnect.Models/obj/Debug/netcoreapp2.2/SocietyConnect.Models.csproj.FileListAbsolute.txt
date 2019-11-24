@@ -1,0 +1,11 @@
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\bin\Debug\netcoreapp2.2\SocietyConnect.Models.deps.json
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\bin\Debug\netcoreapp2.2\SocietyConnect.Models.runtimeconfig.json
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\bin\Debug\netcoreapp2.2\SocietyConnect.Models.runtimeconfig.dev.json
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\bin\Debug\netcoreapp2.2\SocietyConnect.Models.dll
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\bin\Debug\netcoreapp2.2\SocietyConnect.Models.pdb
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.csprojAssemblyReference.cache
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.csproj.CoreCompileInputs.cache
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.AssemblyInfoInputs.cache
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.AssemblyInfo.cs
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.dll
+C:\Users\E884237\Desktop\SocietyConnect\SocietyConnect.Models\obj\Debug\netcoreapp2.2\SocietyConnect.Models.pdb

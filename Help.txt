@@ -1,0 +1,7 @@
+
+dotnet ef migrations add AddUserEntity --project C:/Users/E884237/Desktop/SocietyConnect/SocietyConnect.Models --startup-project C:/Users/E884237/Desktop/SocietyConnect/SocietyConnect.API
+dotnet ef database update AddUserEntity --project C:/Users/E884237/Desktop/SocietyConnect/SocietyConnect.Models --startup-project C:/Users/E884237/Desktop/SocietyConnect/SocietyConnect.API
+
+https://www.entityframeworktutorial.net/efcore/entity-framework-core-migration.aspx
+https://dotnetthoughts.net/using-ef-core-in-a-separate-class-library/
+https://medium.com/oppr/net-core-using-entity-framework-core-in-a-separate-project-e8636f9dc9e5
